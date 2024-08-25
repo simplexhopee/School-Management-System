@@ -22,4 +22,4 @@ No Modifications: You are not allowed to modify, transform, or create derivative
 No Commercial Use: The content in this repository is not to be used for commercial purposes. This includes using the code in any product or service that is sold or used to generate revenue.
 
 Contact
-If you have any questions or would like to discuss permissions beyond the scope of this license, please feel free to contact me at simplehopee@yahoo.com
+If you have any questions or would like to discuss permissions beyond the scope of this license, please feel free to contact me at simplehopee@yahoo.com or hopeodomene@gmail.com
